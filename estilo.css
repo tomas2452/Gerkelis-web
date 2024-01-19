@@ -1,0 +1,358 @@
+nav i{
+	color:darkgoldenrod; 
+	font-size: 20px;
+	font-family: 'IM Fell English SC', serif;
+	text-align: right;
+	padding: 10px;
+}
+nav li{
+
+	color: darkgoldenrod;
+	padding: 20px;
+
+}
+
+.nav__ul{
+
+	display: flex;
+
+
+}
+
+
+p {
+	font-size: 20px;
+	font-family: 'IM Fell English SC', serif;
+	color: darkgoldenrod;
+	letter-spacing: 2px;
+}
+
+h1{
+	display:block; 
+
+	transform: translate(15px);
+	
+}
+
+a{
+	color: floralwhite;
+	display: inline block;
+	font-family: 'Overlock SC', sans-serif;
+	font-size: 15px;
+	background: darkgoldenrod;
+	letter-spacing: 1px;
+	margin: 3px;
+	border: 2px outset darkgoldenrod;
+	border-radius: 15%;
+	
+	display: block;
+	text-decoration: none;
+
+
+}
+
+
+
+
+h2{
+	background: beige;
+    font-size: 14px;
+	font-family: 'IM Fell English SC', serif;
+	display: inline;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 40px;
+	text-align: center;
+	margin: 10px;
+	border: 4px double gold;
+}
+
+h3{
+background: beige;
+	ont-size: 14px;
+	font-famifly: 'IM Fell English SC', serif;
+	color: blue;
+	display: inline;
+	padding-top: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 40px;
+	text-align: center;
+	border: 4px double gold;
+}
+
+
+.caja1{
+	background-image:url(mati.png);
+	font-famifly: 'IM Fell English SC', serif;
+	font-size: 18px;
+	color: floralwhite;
+	display: inline-block;
+	border: 7px outset darkgoldenrod;
+	margin: 60px;
+	text-align: center;
+	width: 250px;
+	transition: all 1s
+    }
+    .caja1 a{
+    		font-famifly: 'IM Fell English SC', serif;
+	font-size: 18px;
+	text-align: center;
+	color: floralwhite;
+
+    }
+
+.caja2{ 
+	background:beige;
+	background-size: cover;
+	   display: inline-block;
+	   border: 7px double darkgoldenrod;
+	   margin: 60px;
+	   width: 280px;
+       transition: all 1s
+       }
+       .caja2 a{
+
+       	 color: goldenrod;
+       	  font-famifly: 'IM Fell English SC', serif;
+       	   font-size: 18px;
+       	   text-align: center;
+
+       }
+
+.caja3{
+	background:black;
+	 display:inline-block;
+	 border: 5px double darkgoldenrod;
+	 margin: 60px;
+	 text-align: center;
+	 width: 280px;
+	
+	 transition: all 1s
+	}
+	.caja3 a{
+		color: darkgoldenrod;
+	 font-famifly: 'IM Fell English SC', serif;
+	  text-align: center;
+	 font-size: 18px;
+
+	}
+	
+	
+	body{
+		background-image: url(https://i.etsystatic.com/20694622/r/il/2a82cb/3172001802/il_1588xN.3172001802_g4ni.jpg)
+	}
+	}
+
+
+      .caja1:hover {
+      	height: 300px;
+      	width: 300px;
+
+      }
+ 
+
+     
+     .caja2:hover{
+       
+       height: 300px;
+       width: 300px;
+     }
+     
+     .caja3:hover{
+     	height: 300px;
+     	width: 300px;
+     }
+
+     .caja4{
+
+     	display: inline-block;
+
+     	height: 200px;
+
+     }
+.caja2 img{
+
+	height: 175px;
+}
+     
+
+     .caja3 img{
+                
+               
+                transform: translate(2px);
+                width: 150px;
+     }
+     
+     
+
+     .caja6 img{
+
+     	height: 80px;
+     	border-radius: 80%;
+     	display: block;
+     	border: 4px double darkgoldenrod;
+     	margin: 35px;
+     	transform: translate(45px)  ;
+
+     }
+
+     .caja6{
+
+   height:100 px;
+     }
+      
+     .caja7 img{
+
+     	background: darkgoldenrod;
+     	height: 100px;
+     	transform: translate(5px);
+     	border: 3px double; darkgoldenrod;
+     	border-radius: 80%;
+     	margin: 15px;
+     
+     }
+     .caja7{
+     	display: inline-block;
+     }
+
+     
+     
+     .caja15 {
+
+     	font-family: 'Mate SC', serif;
+     	background-image: url(https://th.bing.com/th/id/R.5c1f6aa626ecb13a4b543610ec7726ff?rik=0iBWZr6qeG828g&riu=http%3a%2f%2fwww.jejomamerceriacreativa.com%2fWebRoot%2facenswl%2fShops%2fjejomamerceriacreativa_com%2f4C90%2fF971%2f4C11%2fC4CB%2f91F1%2f0A01%2f00CB%2f1854%2fF019-259.jpg&ehk=o7ldU%2ffAVuVaCP6IT67JczKHzR%2bAw%2fyAo6b7BpnXdQY%3d&risl=&pid=ImgRaw&r=0);
+      letter-spacing: 1px;
+      display: block;
+     	font-size: 18px;
+     color: grey;
+     }
+     .caja15 img{
+     	height: 100px;
+     width: 80px;
+     border: 2px outset; black;
+     transform: translate(10px);
+     margin: 6PX;
+
+     }
+
+     .mati5 a{
+
+     	transform: translate(90px);
+     	font-size: 23px;
+     	font-family: 'IM Fell English SC', serif;
+     	margin: 50px;
+     	border: 3px outset goldenrod;
+     	color: black;
+     	width: 100px;
+     }
+     .mati5{
+     	display: inline-block;
+     }
+
+     .toto11{
+     height: 65px;
+     display: block;
+
+     
+     }
+
+     .toto11 h2{
+     	color: darkgoldenrod;
+     	font-size: 25px;
+     	margin-bottom: 25px;
+     }
+
+     form{
+
+     display: flex;
+     flex-direction: column;
+     width: 60%;
+     }
+
+     label{
+     	font-size: 23px;
+     	color: darkgoldenrod;
+     	margin-bottom: 10px;
+     	font-family: 'IM Fell English SC', serif;
+     }
+
+     input{
+     	padding: 15px 10 px;
+     height: 30px;
+     	background-color: beige;
+     	font-size: 15px;
+     	color:darkgoldenrod;
+     	border: 2px inset lightgrey;
+     	margin-bottom: 25px;
+     	border-radius: 10%;
+     	width: 300px;
+     }
+
+input hover{
+	border: darkgoldenrod;
+}
+
+
+
+
+     .btn{
+
+     	background: beige;
+     	width: 150px;
+     	cursor: pointer;
+     	color: darkgoldenrod;
+     	margin: 20px;
+     	font-family: 'IM Fell English SC', serif;
+     	font-size: 20px;
+     }
+     }
+
+     .btn:hover {
+
+     background-color: gold;
+     }
+
+     @media only screen and(max-width:1006px) {
+
+     	.caja1 {
+     		display: block;
+     		width: 100%;
+     }
+
+     .caja2 {
+     		display: block;
+     		width: 100%;
+     }
+
+     .caja3 {
+     		display: block;
+     		width: 100%;
+     }
+
+     .nav a{
+          display: block;
+     		width: 100%;
+
+     }
+
+     .nav i{
+
+     	 display: block;
+     		width: 100%;
+
+     }
+
+     h1{
+
+     	display:block ;
+     	width: 100%;
+     }
+
+    }
+
+
+
+ 
+
